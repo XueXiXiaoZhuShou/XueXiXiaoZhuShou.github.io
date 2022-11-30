@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
+  title: "开始体验吧!"
   image: "images/services-web-development.png"
   button:
-    label: "Let's talk"
+    label: "去下载"
     url: "#"

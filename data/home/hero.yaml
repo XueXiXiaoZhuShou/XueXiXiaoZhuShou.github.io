@@ -2,11 +2,11 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "学习小助手"
+  text: "你的学习之路，我们一路相伴！"
 
   buttonPrimary:
-    label: "How we work"
+    label: "立刻下载"
     url: "#"
 
   buttonSecondary:
