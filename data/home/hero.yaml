@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "学习小助手"
-  text: "你的学习之路，我们一路相伴！"
+  title: "助力学习之路"
+  text: "乐学科技是一家专业从事教育教学软件研究、开发，销售为一体的高科技企业。主要开发各年级学生用的同步课程学习系列软件。"
 
   buttonPrimary:
     label: "立刻下载"

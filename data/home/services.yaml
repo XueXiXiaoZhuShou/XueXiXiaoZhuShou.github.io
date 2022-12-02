@@ -2,7 +2,7 @@ enabled: true
 id: "services"
 
 content:
-  title: "学习小助手的特色功能"
+  title: "创新特色功能"
   text: ""
   cards:
     - image: "images/services-web-0.png"

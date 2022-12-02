@@ -3,14 +3,14 @@ theme: "up-business-theme"
 languageCode: "en-us"
 publishDir: "docs"
 
-title: ""
+title: "乐学科技"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "学习小助手"
+  title: "乐学科技"
   description: "你的学习之路，我们一路相伴！"
   images: 
     - "images/hero-image.png"
